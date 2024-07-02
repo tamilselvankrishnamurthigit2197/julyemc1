@@ -1,0 +1,5 @@
+have to move this from here(vs code) to git page online.,
+// if we create here, pull this to git page 
+
+// commands
+// 
